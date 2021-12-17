@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 pillow = "*"
 requests = "*"
+web3 = "*"
+svglib = "*"
+python-dotenv = "*"
+argparse = "*"
+cairosvg = "*"
 
 [dev-packages]
 
